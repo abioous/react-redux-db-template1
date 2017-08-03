@@ -1,0 +1,32 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "^1.0.2",
+    "redux-logger": "^3.0.6"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "jquery": "^3.2.1",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2",
+    "mysql": "^2.14.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.2",
+    "redux": "^3.5.2",
+    "redux-form": "^7.0.2",
+    "redux-thunk": "^2.1.0",
+    "semantic-ui-react": "^0.71.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "test": "react-scripts test"
+  }
+}
